@@ -1,0 +1,13 @@
+.long-input {
+    width: 45%;
+    min-width: 350px;
+    max-width: 650px;
+}
+
+input.input + span.description {
+    margin-left: 1em;
+}
+
+select + span.description {
+    margin-left: 1em;
+}

@@ -1,0 +1,22 @@
+{
+  "name": "changwoo/lifemotif-wordpress",
+  "description": "",
+  "license": "LGPLv2",
+  "keywords": [],
+  "authors": [
+    {
+      "name": "changwoo",
+      "email": "cs.chwnam@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "files": [
+      "lifemotif.php"
+    ],
+    "psr-4": {
+      "lmwp\\": "src"
+    }
+  }
+}
